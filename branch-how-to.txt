@@ -1,1 +1,5 @@
 branch (ветка) — перемещаемый указатель на фиксированную версию в локальном или удалённом репозитории. По умолачанию создаётся ветка master или main
+git branch
+git checkout 
+git add branch-how-to.md
+git commit -m “branch instructions”
